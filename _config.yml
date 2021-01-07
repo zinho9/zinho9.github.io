@@ -5,7 +5,7 @@ description:        "Best way for the world of cloud"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/KakaoTalk_20210105_214907446.jpg'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/KakaoTalk_20210107_113951578.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://zinho9.github.io
